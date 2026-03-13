@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://maru2000.github.io/al-folio/sitemap.xml
