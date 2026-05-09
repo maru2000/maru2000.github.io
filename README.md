@@ -35,5 +35,8 @@ git status
 git commit -a "your commit comment"
 git push
 
+-a means "stage all tracked files"
+-m means "the next argument is the commit message"
+
 ssh automatically authenticates your push
 - 
