@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Maruthi Annamaraju"
-  avatar : "/assets/images/profile.HEIC"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "I write about my interests and personal projects in numerics, ML, and philosophy."
   links:
     - label: "Email"
