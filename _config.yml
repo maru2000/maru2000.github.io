@@ -96,7 +96,9 @@ defaults:
     values:
       layout: single
       classes: wide
-      author_profile: true
+      author_profile: false
+      toc: true
+      toc_sticky: true
       read_time: true
       comments: true
       share: true
