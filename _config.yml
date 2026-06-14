@@ -110,6 +110,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      
+head_scripts:
+  - /assets/css/main.scss
 
 category_archive:
   type: liquid
