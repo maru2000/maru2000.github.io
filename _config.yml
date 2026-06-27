@@ -113,10 +113,3 @@ defaults:
       
 head_scripts:
   - /assets/css/main.scss
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
